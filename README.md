@@ -1,2 +1,2 @@
-# BADM-MBM6-project-1
+# Crafting Compelling Web Presences
 Project about Crafting Compelling Web Presences
